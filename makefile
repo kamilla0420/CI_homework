@@ -1,2 +1,2 @@
 hellomake: sum.c
-  gcc -o  helomake sum.c -I.
+  gcc -o  hellomake sum.c -I.
