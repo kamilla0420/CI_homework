@@ -10,5 +10,5 @@ int summarize( int a, int b)
 
 int main( void )
 {
-    result = summarize( 5, 4, 6 );
+    result = summarize( 5, 4 );
 }
